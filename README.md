@@ -3,7 +3,7 @@
 This project uses Python's built-in Turtle module to draw the YouTube logo. The script creates a window and uses Turtle's drawing functions to create the red play button and the white YouTube text.
 
 # Toutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/J4GNTulv8SI))
 
 # Screenshot
 Here we have project screenshot :
