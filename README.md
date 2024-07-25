@@ -7,9 +7,9 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/J4GNTulv8SI))
 
 # Screenshot
 Here we have project screenshot :
-YouTube Logo
 
-![screenshot](Screenshot.png)
+YouTube Logo
+![screenshot](YTLogo.png)
 
 
 
